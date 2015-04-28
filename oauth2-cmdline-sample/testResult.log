@@ -1,0 +1,39 @@
+http://localhost:61926/Callback?code=4/Ku4yBcVTmyYmKEUimw2RooYZRDcZaDunUayO4Or6-4Y.knf9SbNSujkb3nHq-8bbp1tq098CmgI#
+
+2015-04-28 12:09:57.293:INFO::Logging to STDERR via org.mortbay.log.StdErrLog
+2015-04-28 12:09:57.294:INFO::jetty-6.1.26
+2015-04-28 12:09:57.317:INFO::Started SocketConnector@localhost:61926
+Please open the following address in your browser:
+  https://accounts.google.com/o/oauth2/auth?client_id=69593725733-r470285qd1hieop37pdpf13g7u9prob2.apps.googleusercontent.com&redirect_uri=http://localhost:61926/Callback&response_type=code&scope=https://www.googleapis.com/auth/userinfo.profile%20https://www.googleapis.com/auth/userinfo.email
+Attempting to open that address in the default browser now...
+2015-04-28 12:10:21.931:INFO::Stopped SocketConnector@localhost:61926
+
+================== Validating a token ==================
+
+{
+  "email" : "",
+  "family_name" : "liu",
+  "gender" : "male",
+  "given_name" : "",
+  "id" : "",
+  "link" : "https://plus.google.com/",
+  "locale" : "en",
+  "name" : " ",
+  "picture" : "",
+  "verified_email" : true
+}
+
+================== Obtaining User Profile Information ==================
+
+{
+  "email" : "",
+  "family_name" : "liu",
+  "gender" : "male",
+  "given_name" : "",
+  "id" : "",
+  "link" : "https://plus.google.com/",
+  "locale" : "en",
+  "name" : " ",
+  "picture" : "",
+  "verified_email" : true
+}
